@@ -1,4 +1,4 @@
-# feed-furious
+# fast-osm-xml
 
 > a fast OSM to JSON parser
 
